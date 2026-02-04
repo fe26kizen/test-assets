@@ -1,0 +1,86 @@
+{
+  "MAKYAJ": {
+    "YENİLER": ["Juicy Fizz"],
+    "EN POPÜLER": [
+      "Green Me Volume Mascara",
+      "Unlimited Blush",
+      "Smart Fusion Lipstick"
+    ],
+    "Dudak Makyajı": [
+      "Ruj",
+      "Lip Gloss",
+      "Dudak Bazı",
+      "Dudak Kalemi",
+      "Dudak Bakımı"
+    ],
+    "Göz Makyajı": [
+      "Maskara",
+      "Eyeliner",
+      "Göz Kalemi",
+      "Göz Farı",
+      "Göz Farı Paleti",
+      "Kaş Ürünleri",
+      "Göz Bazı ve Sabitleyici"
+    ],
+    "Yüz Makyajı": [
+      "Fondöten",
+      "Concealer",
+      "Allık",
+      "Highlighter",
+      "Bronzer",
+      "BB & CC Krem",
+      "Kontür",
+      "Yüz Paleti",
+      "Pudra",
+      "Baz & Sabitleyici",
+      "Makyaj Temizleme"
+    ],
+    "Tırnak Ürünleri": [
+      "Oje",
+      "Oje Temizleyici",
+      "Tırnak Bakım",
+      "Oje Kurutucu"
+    ]
+  },
+  "KOLEKSİYONLAR": [
+    "Splash of Colours",
+    "Juicy Fizz",
+    "Skin Lover",
+    "Suncare",
+    "3D Hydra",
+    "Limited Edition",
+    "Parfüm"
+  ],
+  "CİLT BAKIMI": {
+    "YENİLER": ["Coloured Balm", "New Hydra Pro"],
+    "Yüz Bakımı": [
+      "Nemlendirici",
+      "Serum",
+      "Yaşlanma Karşıtı",
+      "Maske",
+      "Tonik",
+      "Temizleyici"
+    ],
+    "Göz Bakımı": ["Nemlendirici"],
+    "Dudak Bakımı": ["Nemlendirici", "Peeling"],
+    "El & Ayak Bakımı": [
+      "El Kremi",
+      "Tırnak Bakım",
+      "Törpü",
+      "Maske"
+    ],
+    "Vücut Bakımı": []
+  },
+  "AKSESUARLAR": {
+    "YENİLER": ["Eyelash Curler"],
+    "En Popüler": ["Mini Pochette", "Travel Brush Set"],
+    "Yüz Aksesuarları": ["Cımbız", "Temizleme Aplikatörleri"],
+    "Göz Aksesuarları": ["Takma Kirpik"],
+    "Makyaj Aplikatörleri": ["Fırçalar", "Süngerler"],
+    "Makyaj Gereçleri": ["Makyaj Çantası", "Diğer Aksesuarlar"]
+  },
+  "ÇOK SATANLAR": [],
+  "İNDİRİMLİLER🔥": [],
+  "BLOG": [],
+  "SERVİS": ["Mağazalar", "İade Prosedürü", "Profil Bilgilerim", "SSS", "Bize Ulaşın"]
+}
