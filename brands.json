@@ -1,0 +1,651 @@
+{
+  "_type": "category",
+  "total_brands": 129,
+  "categories": [
+    {
+      "brand_seq": 1,
+      "brand_code": "AMIKA",
+      "brand_name": "AMIKA"
+    },
+    {
+      "brand_seq": 2,
+      "brand_code": "ANAST",
+      "brand_name": "ANASTASIA BEVERLY HILLS"
+    },
+    {
+      "brand_seq": 3,
+      "brand_code": "ATKIN",
+      "brand_name": "ATKINSONS"
+    },
+    {
+      "brand_seq": 4,
+      "brand_code": "AVEDA",
+      "brand_name": "AVEDA"
+    },
+    {
+      "brand_seq": 5,
+      "brand_code": "BADEN",
+      "brand_name": "BADE NATURAL"
+    },
+    {
+      "brand_seq": 6,
+      "brand_code": "BENEF",
+      "brand_name": "BENEFIT COSMETICS"
+    },
+    {
+      "brand_seq": 7,
+      "brand_code": "BIODA",
+      "brand_name": "BIODANCE"
+    },
+    {
+      "brand_seq": 8,
+      "brand_code": "BLEND",
+      "brand_name": "BEAUTYBLENDER"
+    },
+    {
+      "brand_seq": 9,
+      "brand_code": "BOFJO",
+      "brand_name": "BEAUTY OF JOSEON"
+    },
+    {
+      "brand_seq": 10,
+      "brand_code": "BOSS",
+      "brand_name": "HUGO BOSS"
+    },
+    {
+      "brand_seq": 11,
+      "brand_code": "BRIOG",
+      "brand_name": "BRIOGEO"
+    },
+    {
+      "brand_seq": 12,
+      "brand_code": "BULGA",
+      "brand_name": "BVLGARI"
+    },
+    {
+      "brand_seq": 13,
+      "brand_code": "BUMBL",
+      "brand_name": "BUMBLE AND BUMBLE"
+    },
+    {
+      "brand_seq": 14,
+      "brand_code": "BURB",
+      "brand_name": "BURBERRY"
+    },
+    {
+      "brand_seq": 15,
+      "brand_code": "BYOMA",
+      "brand_name": "BYOMA"
+    },
+    {
+      "brand_seq": 16,
+      "brand_code": "CALVI",
+      "brand_name": "CALVIN KLEIN"
+    },
+    {
+      "brand_seq": 17,
+      "brand_code": "CAVAL",
+      "brand_name": "ROBERTO CAVALLI"
+    },
+    {
+      "brand_seq": 18,
+      "brand_code": "CDLM",
+      "brand_name": "LA MER"
+    },
+    {
+      "brand_seq": 19,
+      "brand_code": "CHAMP",
+      "brand_name": "CHAMPO"
+    },
+    {
+      "brand_seq": 20,
+      "brand_code": "CHANE",
+      "brand_name": "CHANEL"
+    },
+    {
+      "brand_seq": 21,
+      "brand_code": "CHLOE",
+      "brand_name": "CHLOÉ"
+    },
+    {
+      "brand_seq": 22,
+      "brand_code": "CLARI",
+      "brand_name": "CLARINS"
+    },
+    {
+      "brand_seq": 23,
+      "brand_code": "CLINI",
+      "brand_name": "CLINIQUE"
+    },
+    {
+      "brand_seq": 24,
+      "brand_code": "COSMD",
+      "brand_name": "COSMED"
+    },
+    {
+      "brand_seq": 25,
+      "brand_code": "DENON",
+      "brand_name": "NATASHA DENONA"
+    },
+    {
+      "brand_seq": 26,
+      "brand_code": "DIOR",
+      "brand_name": "DIOR"
+    },
+    {
+      "brand_seq": 27,
+      "brand_code": "DIOR_224",
+      "brand_name": "DIOR BACKSTAGE"
+    },
+    {
+      "brand_seq": 28,
+      "brand_code": "DOLCE",
+      "brand_name": "DOLCE & GABBANA"
+    },
+    {
+      "brand_seq": 29,
+      "brand_code": "DRJAR",
+      "brand_name": "DRJART"
+    },
+    {
+      "brand_seq": 30,
+      "brand_code": "DYSON",
+      "brand_name": "DYSON"
+    },
+    {
+      "brand_seq": 31,
+      "brand_code": "ELEPH",
+      "brand_name": "DRUNK ELEPHANT"
+    },
+    {
+      "brand_seq": 32,
+      "brand_code": "ERASE",
+      "brand_name": "MAKE UP ERASER"
+    },
+    {
+      "brand_seq": 33,
+      "brand_code": "ERBOR",
+      "brand_name": "ERBORIAN"
+    },
+    {
+      "brand_seq": 34,
+      "brand_code": "FABLE",
+      "brand_name": "FABLE & MANE"
+    },
+    {
+      "brand_seq": 35,
+      "brand_code": "FENHA",
+      "brand_name": "FENTY HAIR"
+    },
+    {
+      "brand_seq": 36,
+      "brand_code": "FENSK",
+      "brand_name": "FENTY SKIN"
+    },
+    {
+      "brand_seq": 37,
+      "brand_code": "FENTY",
+      "brand_name": "FENTY BEAUTY"
+    },
+    {
+      "brand_seq": 38,
+      "brand_code": "FEUCI",
+      "brand_name": "FEU DU CIEL"
+    },
+    {
+      "brand_seq": 39,
+      "brand_code": "FILOR",
+      "brand_name": "FILORGA"
+    },
+    {
+      "brand_seq": 40,
+      "brand_code": "FORD",
+      "brand_name": "TOM FORD"
+    },
+    {
+      "brand_seq": 41,
+      "brand_code": "FOREO",
+      "brand_name": "FOREO"
+    },
+    {
+      "brand_seq": 42,
+      "brand_code": "FRESH",
+      "brand_name": "FRESH"
+    },
+    {
+      "brand_seq": 43,
+      "brand_code": "GAULT",
+      "brand_name": "JEAN PAUL GAULTIER"
+    },
+    {
+      "brand_seq": 44,
+      "brand_code": "GHD",
+      "brand_name": "GHD"
+    },
+    {
+      "brand_seq": 45,
+      "brand_code": "GISOU",
+      "brand_name": "GISOU"
+    },
+    {
+      "brand_seq": 46,
+      "brand_code": "GIVEN",
+      "brand_name": "GIVENCHY"
+    },
+    {
+      "brand_seq": 47,
+      "brand_code": "GLOWE",
+      "brand_name": "GLOWERY"
+    },
+    {
+      "brand_seq": 48,
+      "brand_code": "GLOWR",
+      "brand_name": "GLOW RECIPE"
+    },
+    {
+      "brand_seq": 49,
+      "brand_code": "GOOP",
+      "brand_name": "SUPERGOOP!"
+    },
+    {
+      "brand_seq": 50,
+      "brand_code": "GOURM",
+      "brand_name": "LE MONDE GOURMAND"
+    },
+    {
+      "brand_seq": 51,
+      "brand_code": "GUCCI",
+      "brand_name": "GUCCI"
+    },
+    {
+      "brand_seq": 52,
+      "brand_code": "GUERL",
+      "brand_name": "GUERLAIN"
+    },
+    {
+      "brand_seq": 53,
+      "brand_code": "GULSH",
+      "brand_name": "GULSHA"
+    },
+    {
+      "brand_seq": 54,
+      "brand_code": "HANDY",
+      "brand_name": "MERCI HANDY"
+    },
+    {
+      "brand_seq": 55,
+      "brand_code": "HERMS",
+      "brand_name": "HERMÈS"
+    },
+    {
+      "brand_seq": 56,
+      "brand_code": "HERRE",
+      "brand_name": "CAROLINA HERRERA"
+    },
+    {
+      "brand_seq": 57,
+      "brand_code": "HOURG",
+      "brand_name": "HOURGLASS"
+    },
+    {
+      "brand_seq": 58,
+      "brand_code": "HUDA",
+      "brand_name": "HUDA BEAUTY"
+    },
+    {
+      "brand_seq": 59,
+      "brand_code": "INKEY",
+      "brand_name": "THE INKEY LIST"
+    },
+    {
+      "brand_seq": 60,
+      "brand_code": "INVIS",
+      "brand_name": "INVISIBOBBLE"
+    },
+    {
+      "brand_seq": 61,
+      "brand_code": "ISLE",
+      "brand_name": "ISLE OF PARADISE"
+    },
+    {
+      "brand_seq": 62,
+      "brand_code": "ISSEY",
+      "brand_name": "ISSEY MIYAKE"
+    },
+    {
+      "brand_seq": 63,
+      "brand_code": "JANEI",
+      "brand_name": "SOL DE JANEIRO"
+    },
+    {
+      "brand_seq": 64,
+      "brand_code": "JOMAL",
+      "brand_name": "JO MALONE LONDON"
+    },
+    {
+      "brand_seq": 65,
+      "brand_code": "K18",
+      "brand_name": "K18"
+    },
+    {
+      "brand_seq": 66,
+      "brand_code": "KAYAL",
+      "brand_name": "KAYALI"
+    },
+    {
+      "brand_seq": 67,
+      "brand_code": "KENZO",
+      "brand_name": "KENZO"
+    },
+    {
+      "brand_seq": 68,
+      "brand_code": "KERAS",
+      "brand_name": "KÉRASTASE"
+    },
+    {
+      "brand_seq": 69,
+      "brand_code": "KILIA",
+      "brand_name": "KILIAN PARIS"
+    },
+    {
+      "brand_seq": 70,
+      "brand_code": "KORS",
+      "brand_name": "MICHAEL KORS"
+    },
+    {
+      "brand_seq": 71,
+      "brand_code": "KOSAS",
+      "brand_name": "KOSAS"
+    },
+    {
+      "brand_seq": 72,
+      "brand_code": "LANCA",
+      "brand_name": "LANCASTER"
+    },
+    {
+      "brand_seq": 73,
+      "brand_code": "LANCO",
+      "brand_name": "LANCÔME"
+    },
+    {
+      "brand_seq": 74,
+      "brand_code": "LANOL",
+      "brand_name": "LANOLIPS"
+    },
+    {
+      "brand_seq": 75,
+      "brand_code": "LAUDE",
+      "brand_name": "ESTÉE LAUDER"
+    },
+    {
+      "brand_seq": 76,
+      "brand_code": "LOPRO",
+      "brand_name": "L'Oréal Professionnel"
+    },
+    {
+      "brand_seq": 77,
+      "brand_code": "MAKE",
+      "brand_name": "MAKE UP FOR EVER"
+    },
+    {
+      "brand_seq": 78,
+      "brand_code": "MARIO",
+      "brand_name": "MARIO BADESCU"
+    },
+    {
+      "brand_seq": 79,
+      "brand_code": "MBR",
+      "brand_name": "MEDICAL BEAUTY RESEARCH"
+    },
+    {
+      "brand_seq": 80,
+      "brand_code": "MBYMA",
+      "brand_name": "MAKEUP BY MARIO"
+    },
+    {
+      "brand_seq": 81,
+      "brand_code": "MELLY",
+      "brand_name": "MELLYS' NATURE"
+    },
+    {
+      "brand_seq": 82,
+      "brand_code": "MILK",
+      "brand_name": "MILK MAKEUP"
+    },
+    {
+      "brand_seq": 83,
+      "brand_code": "MONTB",
+      "brand_name": "MONTBLANC"
+    },
+    {
+      "brand_seq": 84,
+      "brand_code": "MOROC",
+      "brand_name": "MOROCCANOIL"
+    },
+    {
+      "brand_seq": 85,
+      "brand_code": "MSB",
+      "brand_name": "MSB MEDICAL SPIRIT OF BEAUTY"
+    },
+    {
+      "brand_seq": 86,
+      "brand_code": "MUGLE",
+      "brand_name": "MUGLER"
+    },
+    {
+      "brand_seq": 87,
+      "brand_code": "MYCLA",
+      "brand_name": "MY CLARINS"
+    },
+    {
+      "brand_seq": 88,
+      "brand_code": "NARS",
+      "brand_name": "NARS"
+    },
+    {
+      "brand_seq": 89,
+      "brand_code": "NEIGE",
+      "brand_name": "LANEIGE"
+    },
+    {
+      "brand_seq": 90,
+      "brand_code": "NUDES",
+      "brand_name": "NUDESTIX"
+    },
+    {
+      "brand_seq": 91,
+      "brand_code": "OLAPL",
+      "brand_name": "OLAPLEX"
+    },
+    {
+      "brand_seq": 92,
+      "brand_code": "ONESI",
+      "brand_name": "ONESIZE"
+    },
+    {
+      "brand_seq": 93,
+      "brand_code": "ORDIN",
+      "brand_name": "THE ORDINARY"
+    },
+    {
+      "brand_seq": 94,
+      "brand_code": "ORIGI",
+      "brand_name": "ORIGINS"
+    },
+    {
+      "brand_seq": 95,
+      "brand_code": "OUAI",
+      "brand_name": "OUAI"
+    },
+    {
+      "brand_seq": 96,
+      "brand_code": "PACO",
+      "brand_name": "RABANNE FRAGRANCES"
+    },
+    {
+      "brand_seq": 97,
+      "brand_code": "PAI",
+      "brand_name": "PAI"
+    },
+    {
+      "brand_seq": 98,
+      "brand_code": "PATCH",
+      "brand_name": "PATCHOLOGY"
+    },
+    {
+      "brand_seq": 99,
+      "brand_code": "PEACE",
+      "brand_name": "PEACE OUT SKINCARE"
+    },
+    {
+      "brand_seq": 100,
+      "brand_code": "PIXI",
+      "brand_name": "PIXI"
+    },
+    {
+      "brand_seq": 101,
+      "brand_code": "PRADA",
+      "brand_name": "PRADA"
+    },
+    {
+      "brand_seq": 102,
+      "brand_code": "PROOF",
+      "brand_name": "LIVING PROOF"
+    },
+    {
+      "brand_seq": 103,
+      "brand_code": "RARE",
+      "brand_name": "RARE BEAUTY"
+    },
+    {
+      "brand_seq": 104,
+      "brand_code": "REBUL",
+      "brand_name": "ATELIER REBUL"
+    },
+    {
+      "brand_seq": 105,
+      "brand_code": "REM",
+      "brand_name": "REM BEAUTY"
+    },
+    {
+      "brand_seq": 106,
+      "brand_code": "RITUA",
+      "brand_name": "RITUALS"
+    },
+    {
+      "brand_seq": 107,
+      "brand_code": "RMANI",
+      "brand_name": "ARMANI"
+    },
+    {
+      "brand_seq": 108,
+      "brand_code": "RODRI",
+      "brand_name": "NARCISO RODRIGUEZ"
+    },
+    {
+      "brand_seq": 109,
+      "brand_code": "SAAB",
+      "brand_name": "ELIE SAAB"
+    },
+    {
+      "brand_seq": 110,
+      "brand_code": "SALTS",
+      "brand_name": "SALT AND STONE"
+    },
+    {
+      "brand_seq": 111,
+      "brand_code": "SALVA",
+      "brand_name": "SALVATORE FERRAGAMO"
+    },
+    {
+      "brand_seq": 112,
+      "brand_code": "SENSA",
+      "brand_name": "SENSAI"
+    },
+    {
+      "brand_seq": 113,
+      "brand_code": "SHISE",
+      "brand_name": "SHISEIDO"
+    },
+    {
+      "brand_seq": 114,
+      "brand_code": "SIMCO",
+      "brand_name": "The Sim Co."
+    },
+    {
+      "brand_seq": 115,
+      "brand_code": "SISLE",
+      "brand_name": "SISLEY"
+    },
+    {
+      "brand_seq": 116,
+      "brand_code": "SISLE142",
+      "brand_name": "HAIR RITUEL BY SISLEY"
+    },
+    {
+      "brand_seq": 117,
+      "brand_code": "SUMME",
+      "brand_name": "SUMMER FRIDAYS"
+    },
+    {
+      "brand_seq": 118,
+      "brand_code": "TANGL",
+      "brand_name": "TANGLE TEEZER"
+    },
+    {
+      "brand_seq": 119,
+      "brand_code": "TARTE",
+      "brand_name": "TARTE"
+    },
+    {
+      "brand_seq": 120,
+      "brand_code": "TATCH",
+      "brand_name": "TATCHA"
+    },
+    {
+      "brand_seq": 121,
+      "brand_code": "TILBU",
+      "brand_name": "CHARLOTTE TILBURY"
+    },
+    {
+      "brand_seq": 122,
+      "brand_code": "TOO",
+      "brand_name": "TOO FACED"
+    },
+    {
+      "brand_seq": 123,
+      "brand_code": "ULTRV",
+      "brand_name": "ULTRA VIOLETTE"
+    },
+    {
+      "brand_seq": 124,
+      "brand_code": "VALEN",
+      "brand_name": "VALENTINO"
+    },
+    {
+      "brand_seq": 125,
+      "brand_code": "VERSA",
+      "brand_name": "VERSACE"
+    },
+    {
+      "brand_seq": 126,
+      "brand_code": "YEPOD",
+      "brand_name": "YEPODA"
+    },
+    {
+      "brand_seq": 127,
+      "brand_code": "YSL",
+      "brand_name": "YVES SAINT LAURENT"
+    },
+    {
+      "brand_seq": 128,
+      "brand_code": "YTTP",
+      "brand_name": "YOUTH TO THE PEOPLE"
+    },
+    {
+      "brand_seq": 129,
+      "brand_code": "ZADIG",
+      "brand_name": "ZADIG & VOLTAIRE"
+    }
+  ]
+}
