@@ -1,42 +1,179 @@
 {
-  "menu": {
-    "Makyaj": {
-      "Yüz": ["Fondöten", "Concealer ve Kapatıcı", "Makyaj Bazı & Sabitleyici", "Bronzer", "Toz Pudra", "BB & CC Krem", "Allık", "Highlighter", "Kontür", "Renkli Nemlendirici"],
-      "Göz": ["Far Paleti", "Maskara", "Far", "Eyeliner", "Göz Kalemi", "Far Bazı", "Takma Kirpik"],
-      "Kaş": ["Kaş Kalemi", "Kaş Jeli & Maskara", "Kaş Kiti"],
-      "Dudak": ["Ruj", "Lip Gloss", "Lip Balm", "Dudak Kalemi", "Dudak Bazı & Dolgunlaştırıcı"],
-      "Setler": ["Makyaj Seti", "Ruj Seti", "Göz Makyaj Seti"],
-      "Paletler": ["Far Paleti", "Makyaj Paleti", "Kontür Paleti"],
-      "Fırça & Süngerler": ["Makyaj Fırçası", "Makyaj Süngeri"],
-      "Makyaj Temizleme": ["Makyaj Temizleme Suyu", "Makyaj Temizleme Mendili"],
-      "Aksesuarlar": ["Makyaj Aksesuarları", "Seyahat Boy"]
-    },
-    "Parfüm": {
-      "Kadın": ["EDP Parfüm", "EDT Parfüm", "Kokulu Vücut Bakımı", "Saç Parfümü", "Seyahat Boy"],
-      "Erkek": ["EDT Parfüm", "EDP Parfüm", "EDC Parfüm", "Deodorant", "Tıraş Jeli & Sonrası"],
-      "Setler": ["Kadın Parfüm Seti", "Erkek Parfüm Seti"],
-      "Notalara Göre": ["Çiçeksi", "Baharatlı", "Odunsu", "Fresh", "Pudralı", "Okyanus Esansı"]
-    },
-    "Cilt Bakımı": {
-      "Nemlendirici": ["Gündüz Kremi", "Gece Kremi", "Serum", "Göz Çevresi"],
-      "Maskeler": ["Nemlendirici Maske", "Kağıt Maske", "Yüz Maskesi"],
-      "Temizleyiciler": ["Tonik", "Yüz Arındırıcı", "Köpük", "Temizleme Suyu"],
-      "Endişe Odaklı": ["Anti-Aging", "Leke Karşıtı", "Kızarıklık", "Hassas Cilt", "Gözenek Karşıtı", "Işıltı Veren"],
-      "Güneş Bakımı": ["Yüz Güneş Kremi", "Bronzlaştırıcı", "Güneş Sonrası"]
-    },
-    "Vücut & Banyo": {
-      "Vücut Bakımı": ["Nemlendirici Krem", "Peeling", "El Bakımı", "Deodorant", "Vücut Misti", "Ayak Bakımı", "Besleyici Yağ"],
-      "Banyo & Duş": ["Vücut Sabunu", "Duş Jeli", "Banyo Bombası", "Duş Yağı"],
-      "İhtiyaca Göre": ["İnceltici & Sıkılaştırıcı", "Selülit & Çatlak", "Nemlendirici Bakım"],
-      "Erkek": ["Deodorant", "Duş Ürünleri", "Nemlendirici"]
-    },
-    "Saç": {
-      "Şampuan & Krem": ["Şampuan", "Saç Kremi"],
-      "Maskeler": ["Saç Maskesi", "Durulanmayan Bakım"],
-      "Serum & Yağ": ["Saç Serumu", "Saç Yağı"],
-      "Şekillendirme": ["Saç Spreyi", "Şekillendirici Krem"],
-      "Aksesuarlar": ["Saç Fırçası", "Tarak", "Maşa", "Düzleştirici", "Saç Kurutucu"],
-      "İhtiyaca Göre": ["Dökülme Karşıtı", "Nemlendirme", "Hacim", "Kepek Önleyici", "Boyalı Saç", "Kıvırcık Belirginleştirme"]
-    }
+  "Makyaj": {
+    "Yüz": [
+      "Fondöten",
+      "Concealer ve Kapatıcı",
+      "Makyaj Bazı & Sabitleyici",
+      "Bronzer",
+      "Toz Pudra",
+      "BB & CC Krem",
+      "Allık",
+      "Highlighter",
+      "Kontür",
+      "Renkli Nemlendirici"
+    ],
+    "Göz": [
+      "Far Paleti",
+      "Maskara",
+      "Far",
+      "Eyeliner",
+      "Göz Kalemi",
+      "Far Bazı",
+      "Takma Kirpik"
+    ],
+    "Kaş": [
+      "Kaş Kalemi",
+      "Kaş Jeli & Maskara",
+      "Kaş Kiti"
+    ],
+    "Dudak": [
+      "Ruj",
+      "Lip Gloss",
+      "Lip Balm",
+      "Dudak Kalemi",
+      "Dudak Bazı & Dolgunlaştırıcı"
+    ],
+    "Setler": [
+      "Makyaj Seti",
+      "Ruj Seti",
+      "Göz Makyaj Seti"
+    ],
+    "Paletler": [
+      "Far Paleti",
+      "Makyaj Paleti",
+      "Kontür Paleti"
+    ],
+    "Fırça & Süngerler": [
+      "Makyaj Fırçası",
+      "Makyaj Süngeri"
+    ],
+    "Makyaj Temizleme": [
+      "Makyaj Temizleme Suyu",
+      "Makyaj Temizleme Mendili"
+    ],
+    "Aksesuarlar": [
+      "Makyaj Aksesuarları",
+      "Seyahat Boy"
+    ]
+  },
+  "Parfüm": {
+    "Kadın": [
+      "EDP Parfüm",
+      "EDT Parfüm",
+      "Kokulu Vücut Bakımı",
+      "Saç Parfümü",
+      "Seyahat Boy"
+    ],
+    "Erkek": [
+      "EDT Parfüm",
+      "EDP Parfüm",
+      "EDC Parfüm",
+      "Deodorant",
+      "Tıraş Jeli & Sonrası"
+    ],
+    "Setler": [
+      "Kadın Parfüm Seti",
+      "Erkek Parfüm Seti"
+    ],
+    "Notalara Göre": [
+      "Çiçeksi",
+      "Baharatlı",
+      "Odunsu",
+      "Fresh",
+      "Pudralı",
+      "Okyanus Esansı"
+    ]
+  },
+  "Cilt Bakımı": {
+    "Nemlendirici": [
+      "Gündüz Kremi",
+      "Gece Kremi",
+      "Serum",
+      "Göz Çevresi"
+    ],
+    "Maskeler": [
+      "Nemlendirici Maske",
+      "Kağıt Maske",
+      "Yüz Maskesi"
+    ],
+    "Temizleyiciler": [
+      "Tonik",
+      "Yüz Arındırıcı",
+      "Köpük",
+      "Temizleme Suyu"
+    ],
+    "Endişe Odaklı": [
+      "Anti-Aging",
+      "Leke Karşıtı",
+      "Kızarıklık",
+      "Hassas Cilt",
+      "Gözenek Karşıtı",
+      "Işıltı Veren"
+    ],
+    "Güneş Bakımı": [
+      "Yüz Güneş Kremi",
+      "Bronzlaştırıcı",
+      "Güneş Sonrası"
+    ]
+  },
+  "Vücut & Banyo": {
+    "Vücut Bakımı": [
+      "Nemlendirici Krem",
+      "Peeling",
+      "El Bakımı",
+      "Deodorant",
+      "Vücut Misti",
+      "Ayak Bakımı",
+      "Besleyici Yağ"
+    ],
+    "Banyo & Duş": [
+      "Vücut Sabunu",
+      "Duş Jeli",
+      "Banyo Bombası",
+      "Duş Yağı"
+    ],
+    "İhtiyaca Göre": [
+      "İnceltici & Sıkılaştırıcı",
+      "Selülit & Çatlak",
+      "Nemlendirici Bakım"
+    ],
+    "Erkek": [
+      "Deodorant",
+      "Duş Ürünleri",
+      "Nemlendirici"
+    ]
+  },
+  "Saç": {
+    "Şampuan & Krem": [
+      "Şampuan",
+      "Saç Kremi"
+    ],
+    "Maskeler": [
+      "Saç Maskesi",
+      "Durulanmayan Bakım"
+    ],
+    "Serum & Yağ": [
+      "Saç Serumu",
+      "Saç Yağı"
+    ],
+    "Şekillendirme": [
+      "Saç Spreyi",
+      "Şekillendirici Krem"
+    ],
+    "Aksesuarlar": [
+      "Saç Fırçası",
+      "Tarak",
+      "Maşa",
+      "Düzleştirici",
+      "Saç Kurutucu"
+    ],
+    "İhtiyaca Göre": [
+      "Dökülme Karşıtı",
+      "Nemlendirme",
+      "Hacim",
+      "Kepek Önleyici",
+      "Boyalı Saç",
+      "Kıvırcık Belirginleştirme"
+    ]
   }
 }
